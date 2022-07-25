@@ -16,12 +16,6 @@ Initial setup of LogBot:
 * If you want LogBot to report into a different google chat change the url starting on line 13 of the logbot.py script.
   * Directions for how to do this can be found here: [https://developers.google.com/chat/how-tos/webhooks](https://developers.google.com/chat/how-tos/webhooks)
 
-## ToDo
+## Other Info
 
-|Component            |Not Started|In Progress|Testing|Complete|Notes                                                          |
-|:-------------------:|:---------:|:---------:|:-----:|:------:|--------------------------------------------------------------:|
-|log_details_reader   |           |           |       |X       |                                                               |
-|logbot (main class)  |           |           |       |X       |                                                               |
-
-
-## Contribute
+  * GitHub Repo: https://github.com/dmarienburg/GooLogBot.git
