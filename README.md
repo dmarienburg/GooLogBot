@@ -1,11 +1,11 @@
-# LogBot
+# GooLogBot
 
-LogBot is a lighweight customizable google chat bot designed to read log files and report of events of a specified logging level.
+LogBot is a lighweight customizable google chat bot designed to read log files and report on events, of a specified logging level, in a specific google chat.
 
 * Author(s): David Marienburg
 * Contributors(s):
 * Maintainer(s): David Marienburg
-* Version: 1.0b
+* Version: 1.0
 * Last Updated: 2022-07-21
 
 ## Getting Started
